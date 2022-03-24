@@ -6,6 +6,9 @@
     <h3 align="left">
         <img src="https://media4.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47pg9gh0io6zzhjadeo0q3c63sfq7jotmz8lfw3yj5&rid=giphy.gif&ct=g"width="100" height="50">
     </h3>
+     <h3 align="left">
+        <img src="https://media4.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47pg9gh0io6zzhjadeo0q3c63sfq7jotmz8lfw3yj5&rid=giphy.gif&ct=g"width="100" height="50">
+    </h3>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
