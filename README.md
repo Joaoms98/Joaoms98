@@ -3,7 +3,6 @@
 
 </p align="center">
 <img src="https://github.com/Joaoms98/Joaoms98/blob/main/Pixelart.png" />
-
 <p align="center">
 
 <h3
