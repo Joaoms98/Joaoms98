@@ -2,7 +2,7 @@
 <h3 align="center">Sou desenvolvedor em treinamento DotNEt</h3>
 
 <h3
-    align="left"><img src="https://media2.giphy.com/media/quEsMOrr3hmQ8/giphy.gif?cid=ecf05e47hbr4s6fjje78gq1pfon5dzsg89qo0p5d4h7p4uzz&rid=giphy.gif&ct=g"width="200" height="40">
+    align="left"><img src="https://media2.giphy.com/media/quEsMOrr3hmQ8/giphy.gif?cid=ecf05e47hbr4s6fjje78gq1pfon5dzsg89qo0p5d4h7p4uzz&rid=giphy.gif&ct=g"width="800" height="50">
 </h3>
 <p 
    align="left">
