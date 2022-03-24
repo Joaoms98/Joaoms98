@@ -1,12 +1,16 @@
 <h1 align="center">Oi <img src="https://camo.githubusercontent.com/7320d7ac1205b7615c6d575858ecc3800112f8703e0107384b84a1e394d4be86/68747470733a2f2f692e696d6775722e636f6d2f584a6548674f342e676966" width="40" height="40"> Eu sou o João.</h1>
 <h3 align="center">Sou desenvolvedor em treinamento DotNEt</h3>
 
+</p align="center">
+<img src="https://github.com/Joaoms98/Joaoms98/blob/main/Pixelart.png" />
+
+<p align="center">
+
 <h3
     align="left"><img src="https://media4.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47pg9gh0io6zzhjadeo0q3c63sfq7jotmz8lfw3yj5&rid=giphy.gif&ct=g"width="800" height="50">
 </h3>
-<p 
-   align="left">
-</p>
+<h3 align="left">Conect with me:
+</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
