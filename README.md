@@ -1,8 +1,8 @@
-<h1 align="center">Oi <img src="https://camo.githubusercontent.com/7320d7ac1205b7615c6d575858ecc3800112f8703e0107384b84a1e394d4be86/68747470733a2f2f692e696d6775722e636f6d2f584a6548674f342e676966" width="40" height="200"> Eu sou o João.</h1>
+<h1 align="center">Oi <img src="https://camo.githubusercontent.com/7320d7ac1205b7615c6d575858ecc3800112f8703e0107384b84a1e394d4be86/68747470733a2f2f692e696d6775722e636f6d2f584a6548674f342e676966" width="40" height="40"> Eu sou o João.</h1>
 <h3 align="center">Sou desenvolvedor em treinamento DotNEt</h3>
 
 <h3
-    align="left"><img src="https://media2.giphy.com/media/quEsMOrr3hmQ8/giphy.gif?cid=ecf05e47hbr4s6fjje78gq1pfon5dzsg89qo0p5d4h7p4uzz&rid=giphy.gif&ct=g"width="40" height="40">
+    align="left"><img src="https://media2.giphy.com/media/quEsMOrr3hmQ8/giphy.gif?cid=ecf05e47hbr4s6fjje78gq1pfon5dzsg89qo0p5d4h7p4uzz&rid=giphy.gif&ct=g"width="200" height="40">
 </h3>
 <p 
    align="left">
