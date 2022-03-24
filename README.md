@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João.</h1>
+<h1 align="center">Oi <img src="https://camo.githubusercontent.com/7320d7ac1205b7615c6d575858ecc3800112f8703e0107384b84a1e394d4be86/68747470733a2f2f692e696d6775722e636f6d2f584a6548674f342e676966" width="40" height="40"> Eu sou o João., .</h1>
 <h3 align="center">I passionate full-stack developer from Brasil</h3>
 
 <h3 align="left">Connect with me:</h3>
