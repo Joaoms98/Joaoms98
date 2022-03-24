@@ -2,7 +2,7 @@
 <h3 align="center">Sou desenvolvedor em treinamento DotNEt</h3>
 
 </p align="center">
-<img src="https://github.com/Joaoms98/Joaoms98/blob/main/Pixelart.png" />
+<img src="https://github.com/Joaoms98/Joaoms98/blob/main/Background.png" />
 <p align="center">
 
 <h3
