@@ -2,7 +2,7 @@
 <img src="https://github.com/Joaoms98/Joaoms98/blob/main/Background.png" />
 <p align="center">
 
-<div style="display: inline_block">
+<div style="display: inline">
     <h3 align="left">
         <img src="https://media4.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e47pg9gh0io6zzhjadeo0q3c63sfq7jotmz8lfw3yj5&rid=giphy.gif&ct=g"width="100" height="50">
     </h3>
