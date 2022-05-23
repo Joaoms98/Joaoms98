@@ -1,8 +1,6 @@
 </p align="center">
   <img src="https://github.com/Joaoms98/Joaoms98/blob/main/Background.png" />
 <p align="center">
-
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/12W5Sg2koWYnwA/giphy.gif?cid=ecf05e47outq5t9jghjdu6pwsgcg4i0jpy6w3cnip3dzxkh2&rid=giphy.gif&ct=g" width="400" height="95"/>
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
