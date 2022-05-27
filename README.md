@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Joaoms98/Joaoms98/blob/main/giphy%20(1).gif" height="400" />
+<img src="https://github.com/Joaoms98/Joaoms98/blob/main/f.gif"/>
 </p>
 
   <h3 align="center">Skills and Tools</h3>
