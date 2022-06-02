@@ -1,10 +1,11 @@
 <p align="center">
-<img src="https://media.giphy.com/media/kh5xtU5fwpxO7dGS8J/giphy.gif" height="400" width="650"/>
+<img src="https://media.giphy.com/media/kh5xtU5fwpxO7dGS8J/giphy.gif"/>
 </p>
 
   <h3 align="center">Skills and Tools</h3>
   <div align="left">
   <img src="https://github.com/Joaoms98/Joaoms98/blob/main/unnamed.gif" width="250"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
