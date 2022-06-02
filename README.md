@@ -4,7 +4,7 @@
 
   <h3 align="center">Skills and Tools</h3>
   <div align="center">
-  <img src="https://github.com/Joaoms98/Joaoms98/blob/main/unnamed.gif" width="50"/>
+  <img src="https://github.com/Joaoms98/Joaoms98/blob/main/unnamed.gif" width="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
