@@ -3,7 +3,7 @@
 </p>
 
   <h3 align="center">Skills and Tools</h3>
-  <div align="left" padding-top='600px'>
+  <div align="left">
   <img src="https://github.com/Joaoms98/Joaoms98/blob/main/unnamed.gif" width="200"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" />
