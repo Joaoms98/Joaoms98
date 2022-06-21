@@ -1,5 +1,5 @@
-<p align="center">
-<img src="https://media.giphy.com/media/kh5xtU5fwpxO7dGS8J/giphy.gif" width="800"/>
+<p alaing="center"> 
+<img src= "https://github.com/vimirsi/vimirsi/blob/main/Git%20Back%2BTec.gif" width= "1000" /> 
 </p>
 
   <h3 align="center">Skills and Tools</h3>
