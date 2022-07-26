@@ -1,5 +1,5 @@
 <p alaing="center"> 
-<img src= "https://github.com/vimirsi/vimirsi/blob/main/Git%20Back%2BTec.gif" width= "1000" /> 
+<img src= "https://github.com/vimirsi/vimirsi/blob/main/Git%20Back%2BTec.gif" width= "800" /> 
 </p>
 
   <h3 align="center">Skills and Tools</h3>
