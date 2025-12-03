@@ -2,7 +2,7 @@
 <img src= "https://github.com/vimirsi/vimirsi/blob/main/Git%20Back%2BTec.gif" width= "800" /> 
 </p> -->
 <p alaing="center"> 
-<img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVhMWUxMnoweGs2YjM0MWNuc2p4ZGN4c3Vvb2sweWFkNDJ3bDA2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDQj6tO9V3Fas7fkkP/giphy.gif" width= "800" height = "200"/> 
+<img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVhMWUxMnoweGs2YjM0MWNuc2p4ZGN4c3Vvb2sweWFkNDJ3bDA2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDQj6tO9V3Fas7fkkP/giphy.gif" width= "800" height = "450"/> 
 </p>
 
 <h3 align="center">Skills and Tools</h3>
